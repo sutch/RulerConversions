@@ -1,11 +1,10 @@
 // Ruler Conversions
 // version 1.0
 
+// JavaScript functions for converting from decimal numbers to fractional ruler values.
+
 // Available in Google Drive Script Gallery as 'Ruler Conversions'.
-
-// Email comments to dennis@sutch.com.
-
-// Functions to convert from decimal numbers to fractional ruler values.
+// Please report problems, help resolve problems, and enhance on github: https://github.com/sutch/RulerConversions
 
 // Google Drive Spreadsheet usage:
 //     '=dec2ruler16(5.7375)' => '5 3/4'  // returns fraction to nearest 1/16th.

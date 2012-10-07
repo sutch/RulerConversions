@@ -1,7 +1,7 @@
 Ruler Conversions
 =================
 
-Functions to convert from decimal numbers to fractional ruler values.
+JavaScript functions for converting from decimal numbers to fractional ruler values.
 
 Available in Google Drive Script Gallery as 'Ruler Conversions'.
 
